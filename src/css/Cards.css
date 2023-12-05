@@ -1,0 +1,44 @@
+body{
+    font-family: Loto;
+}
+#button3{
+    color:#7566E5;
+
+    background: white;
+    border-radius: 30px;
+    border: 1px solid gray;
+    width: 150px;
+    transition: 0.5s;
+    font-size: 22px;
+    padding: 5px;
+    margin-left: 20px;
+    
+}
+#button3:hover{
+    color: white;
+    background: #7566E5;
+   
+}
+#logo3{
+    height: 150px;
+    margin-left: 25px;
+    width: 150px;
+}
+.card{
+    padding: 15px;
+    padding-left: 20px;
+    
+}
+.cards{
+    margin-top: 200px;
+    display: inline-block;
+    width: 250px;
+    margin-left: 100px;
+    border: 1px solid gray;
+    border-radius: 15px;    
+
+
+}
+#name3{
+    margin-left: 30px;
+}

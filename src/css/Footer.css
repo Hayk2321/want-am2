@@ -1,0 +1,101 @@
+#text11{
+    color:#B1B1C0;
+    font-size: 12px;
+}
+body{
+    font-family: Loto;
+}
+
+.footer{
+    background: #282832;
+    height: 400px;
+    margin-top:300px;
+    
+}
+#text11{
+    position: absolute;
+    top:3600px;
+    color:#B3B3C0;
+    left:200px;
+    font-size: 18px;
+}
+#button4{
+    border: none;
+    border-radius: 30px;
+    position: relative;
+    width: 350px;
+    text-align: left;
+    color:white;
+    top:20px;
+    left:950px;
+    padding: 17px;
+    background: #3A3A43;
+}
+
+#button5{
+    border:none;
+    border-radius:0px 30px 30px 0px;
+    position: relative;
+    width: 200px;
+    text-align:center;
+    color:white;
+    top:20px;
+    left:750px;
+    padding: 17px;
+    transition: 0.5s;
+    background: #7776E5;
+}
+#button5:hover{
+    box-shadow: 1px 2px 1px 3px;
+    transition: 0.5s;
+}
+#text12{
+    position: absolute;
+    top:3830px;
+    color:#B3B3C0;
+    left:200px;
+    font-size: 18px;
+}
+#nkar7{
+    position: relative;
+    left:620px;
+}
+#hamar{
+    color:#B3B3C0;
+    position: absolute;
+    top: 3750px;
+    left:1150px;
+    font-size: 36px;
+}
+#hamar2{
+    color:#B3B3C0;
+    position: absolute;
+    top: 3830px;
+    left:1080px;
+   
+}
+.footer3{
+    background: #1C1C24;
+    height: 60px;
+    
+}
+#tiv{
+    color:#B3B3C0;
+    position: absolute;
+    top:3930px;
+    left:200px;
+}
+#studio{
+    color:#B3B3C0;
+    position: absolute;
+    top:3930px;
+    left:1230px;
+    display: inline-block;
+}
+#urish{
+    color:#7776E5;
+    position: absolute;
+    top:-15px;
+   
+    left:60px;
+}

@@ -1,0 +1,29 @@
+.card22 img{
+    width: 100%;
+  height: auto;
+  border-bottom: 1px solid #ddd;
+}
+
+.card22{
+  
+  width: 300px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  
+}
+.card-details {
+    padding: 20px;
+    
+  }
+  
+  .card-details h2 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
+  .price55 {
+    color: #17a2b8;
+    font-size: 1.2em;
+  }

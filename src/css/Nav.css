@@ -1,0 +1,37 @@
+body{
+    font-family: Lato;
+}
+#title{
+    font: 38px Lato;
+    margin-left: 200px;
+}
+#text{
+    font-size: 16px;
+    color:gray;
+    margin-top: -20px;
+    margin-left: 200px;
+}
+#logo2{
+    height: 350px;
+    width: 350px;
+    position: absolute;
+    top:310px;
+    object-fit: fill;
+    left:860px;
+}
+#butt{
+    font-size: 12px;
+    color:white;
+    background: #7776E5;
+    transition: 0.5s;
+    border-radius: 30px;
+    padding: 15px;
+    border: none;
+    margin-left: 200px;
+    box-shadow: 5px 10px 3px;
+}
+#butt:hover{
+    transition: 0.5s;
+    cursor: pointer;
+    box-shadow: 3px 3px black;
+}

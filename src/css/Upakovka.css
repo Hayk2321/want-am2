@@ -1,0 +1,26 @@
+.upakovka{
+    width:150px;
+
+    display: grid;
+    margin-left: 200px;
+    margin-top: 50px;
+    grid-template-columns: auto auto auto auto auto;
+}
+.upakovka p{
+    text-align: center;
+    border-right: 1px solid gray;
+}
+#text0{
+    border: 1px solid gray;
+    position: absolute;
+    left:240px;
+    bottom:-2150px;
+    width: 1013px;
+    height: 280px;
+}
+.upakovka img{
+    height: 150px;
+    width: 150px;
+    border-right:1px solid gray ;
+    padding: 30px;
+}
