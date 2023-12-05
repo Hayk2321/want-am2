@@ -7,6 +7,7 @@ export default function Add2 ( {name, price, imageUrl }) {
         <img src={imageUrl} alt=""/>
         <div className="card-details">
           <h2>{name}</h2>
+          <h2>{price}</h2>
           <p className="price55" >{price}</p>
         </div>
       </div>
